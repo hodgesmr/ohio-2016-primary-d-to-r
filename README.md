@@ -4,7 +4,7 @@
 
 When voting in a primary election in Ohio, one must request a party-specific ballot. John Kasich won the 2016 Ohio Republican primary; it was the only state he won. It had been widely speculated that many Ohio voters who would normally vote in the Democratic primary opted to vote in the Republican primary in order to defeat Donald Trump.
 
-This script is designed to estimate how many Ohio Republican primary voters switched in 2016. It parses the voter data provided by the [Ohio Secretary of State](http://www.sos.state.oh.us/SOS/elections/Research/electResultsMain/2016Results.aspx).
+This script is designed to estimate how many Ohio Republican primary voters switched in 2016. It parses the voter data provided by the [Ohio Secretary of State](http://www6.sos.state.oh.us/ords/f?p=111:1).
 
 ### Method
 
