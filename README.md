@@ -15,6 +15,7 @@ The script works by collecting all of the voters who requested a Republican ball
 The Ohio Secretary of State [released their own calculations](http://www.sos.state.oh.us/sos/mediaCenter/2016/2016-05-18.aspx) for this Democrat-to-Republican switch. Their count comes in to about _half_ of what this script finds. That's because Ohio considers you "unaffiliated" if you haven't voted in _any_ primary for _any_ office across the last 3 primary cycles. So, for example, if you only vote in Presidential primaries, but missed 2012, you became "unaffiliated". I believe this is overzealous pruning.
 
 ## Usage
+Run this:
 
 ```sh
 git clone git@github.com:hodgesmr/ohio-2016-primary-d-to-r.git ~/ohio-2016-primary-d-to-r
